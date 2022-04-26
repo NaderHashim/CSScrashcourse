@@ -93,5 +93,23 @@ word-spacing: 1em;
 .categories li{
     padding-bottom:6px;
     border-bottom:dotted 1px #333;
-    list-style-image: url("../Images/checkmark.png")
+    }
+
+.my-form{
+    padding:20px
+    
+}
+.form-group{
+    padding-bottom: 15px;
+}
+
+.my-form label{
+display:block;
+
+}
+
+.my-form input [type="text"{
+
+    padding:8px;
+    width:100%;
 }
